@@ -3,6 +3,7 @@ import maya.cmds as cmds
 
 '''
 Use Maya nodal system
+Need Maya 2020 or + for Offset Parent Matrix
 Parent constraint joints to contollers using matrices
 Note: You can't bake animation on joints that use this constraint
 '''
