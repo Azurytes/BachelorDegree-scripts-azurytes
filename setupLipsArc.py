@@ -5,6 +5,7 @@ import maya.cmds as cmds
 For lips rigging on Maya
 Make nodal connections between the controller and joint
 to generate an arc when controller move
+Based on antCGI tutorial: https://www.youtube.com/watch?v=hnzfeDQY0oM
 '''
 
 def setupLips(lipSelection):
