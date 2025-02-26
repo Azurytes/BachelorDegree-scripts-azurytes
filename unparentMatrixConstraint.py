@@ -3,6 +3,7 @@ import maya.cmds as cmds
 
 '''
 Use Maya nodal system
+Need Maya 2020 or + for Offset Parent Matrix
 Unparent constraint between joints and contollers using matrices
 Only work if the setup is the same done by parentMatrixConstraint.py
 '''
