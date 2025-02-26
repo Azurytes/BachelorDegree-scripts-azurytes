@@ -2,6 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+Making a functional spirit level by translating bubbles with vector projection
+Written with the help of Guillaume EVRARD
+*/
+
 //[ExecuteInEditMode]
 public class BubbleNiveauVector : MonoBehaviour
 {
