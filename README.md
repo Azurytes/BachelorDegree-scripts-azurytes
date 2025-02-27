@@ -11,3 +11,4 @@ It includes:
 - *setupLipsArc.py* : setup nodal connections for a set of selected controller and joint so that the joint follow an arc around a root.
 - *switchFkIkDynamic.py* : Setting up FK/IK of a selected joint chain and IK can follow a simulated curve or not.
 - *unparentMatrixConstraint.py* : remove nodal connections of parentMatrixConstraint.py and reset selection transformation matrix (need Maya 2020 or +).
+- *zeroMatrix.py* : reset transformation matrix to zero by transfering values to Parent Offset Matrix (need Maya 2020 or +).
